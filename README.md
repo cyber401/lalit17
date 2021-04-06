@@ -1,4 +1,4 @@
-- 👋 Hi, I’m lalit Kumar
+- 👋 Hi, I’m Lalit Kumar
 - 👀 I love programming 
 - 🌱 I’m currently learning Android app development 
 - 💞️ I’m looking to collaborate on ...
